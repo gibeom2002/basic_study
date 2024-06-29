@@ -218,13 +218,13 @@ int main()
 
 ## 이미지 넣기
 ```
-:[Github Logo](/images/markdown_logo.jpg)
+:[Github Logo](./images/markdown_logo.jpg)
 Format : :[이미지 alt명](url 링크)
 ```
 
 >output
 
-:[Github Logo](/images/markdown_logo.png)
+:[Github Logo](./images/markdown_logo.png)
 
 ## 테이블
 
